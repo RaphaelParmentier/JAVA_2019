@@ -25,6 +25,6 @@ Télécharger le projet directement par l'interface graphique de GitHub ou en fa
 
 Ensuite exécutez diretement le fichier mainApp.java avec la commande :
 
-~./mainApp.java~
+~java mainApp~
 
-Pour finir indiquez par le terminal le pathway du fichier gff3 désiré.
+Pour finir, indiquez par le terminal le pathway du fichier gff3 désiré.
